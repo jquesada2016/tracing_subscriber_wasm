@@ -10,7 +10,7 @@
 //!
 //! ### Important Note
 //! In my testing, if you don't call `.without_time` on the
-//! subcriber builder, a runtime exception will be raised.
+//! subscriber builder, a runtime exception will be raised.
 //!
 //! # Example
 //! ```rust
