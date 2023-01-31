@@ -1,8 +1,16 @@
 [package]
+authors = ["Jose Quesada <jquesada2016@fau.edu>"]
 name = "tracing-subscriber-wasm"
 version = "0.1.0"
 edition = "2021"
-description = "A tracing_subscriber writer that writes to the console using wasm-bindgen."
+description = "A tracing-subscriber writer that writes to the console using wasm-bindgen."
+homepage = "https://github.com/jquesada2016/tracing_subscriber_wasm"
+documentation = "https://docs.rs/tracing-subscriber-wasm"
+repository = "https://github.com/jquesada2016/tracing_subscriber_wasm"
+license = "MIT"
+keywords = ["tracing", "subscriber", "wasm", "writer", "console"]
+categories = ["debugging", "asynchronous", "profiling", "wasm", "web-programming"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
