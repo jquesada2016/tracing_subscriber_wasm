@@ -1,0 +1,12 @@
+[package]
+name = "tracing-subscriber-wasm"
+version = "0.1.0"
+edition = "2021"
+description = "A tracing_subscriber writer that writes to the console using wasm-bindgen."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gloo = "0.8"
+tracing = "0.1"
+tracing-subscriber = "0.3"
